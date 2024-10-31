@@ -1,0 +1,126 @@
+Cuadrante (50, 50), Ancho: 100, Altura: 100
+--Cuadrante (25, 75), Ancho: 50, Altura: 50
+----Cuadrante (13, 87), Ancho: 25, Altura: 25
+------Cuadrante (7, 93), Ancho: 12, Altura: 12
+--------Punto (9, 94)
+--------Punto (5, 90)
+------Cuadrante (19, 93), Ancho: 12, Altura: 12
+------Cuadrante (7, 81), Ancho: 12, Altura: 12
+--------Punto (12, 85)
+------Cuadrante (19, 81), Ancho: 12, Altura: 12
+----Cuadrante (37, 87), Ancho: 25, Altura: 25
+------Cuadrante (31, 93), Ancho: 12, Altura: 12
+--------Punto (35, 95)
+--------Punto (28, 98)
+------Cuadrante (43, 93), Ancho: 12, Altura: 12
+--------Punto (42, 90)
+--------Punto (40, 88)
+------Cuadrante (31, 81), Ancho: 12, Altura: 12
+------Cuadrante (43, 81), Ancho: 12, Altura: 12
+----Cuadrante (13, 63), Ancho: 25, Altura: 25
+------Cuadrante (7, 69), Ancho: 12, Altura: 12
+--------Punto (3, 69)
+--------Punto (6, 65)
+------Cuadrante (19, 69), Ancho: 12, Altura: 12
+------Cuadrante (7, 57), Ancho: 12, Altura: 12
+--------Punto (5, 55)
+--------Punto (7, 54)
+------Cuadrante (19, 57), Ancho: 12, Altura: 12
+--------Punto (19, 56)
+--------Punto (23, 62)
+----Cuadrante (37, 63), Ancho: 25, Altura: 25
+------Punto (46, 69)
+--Cuadrante (75, 75), Ancho: 50, Altura: 50
+----Cuadrante (63, 87), Ancho: 25, Altura: 25
+------Cuadrante (57, 93), Ancho: 12, Altura: 12
+------Cuadrante (69, 93), Ancho: 12, Altura: 12
+--------Punto (69, 88)
+--------Punto (69, 90)
+------Cuadrante (57, 81), Ancho: 12, Altura: 12
+--------Punto (59, 81)
+------Cuadrante (69, 81), Ancho: 12, Altura: 12
+--------Punto (74, 86)
+----Cuadrante (87, 87), Ancho: 25, Altura: 25
+------Cuadrante (81, 93), Ancho: 12, Altura: 12
+--------Punto (83, 93)
+--------Punto (81, 90)
+------Cuadrante (93, 93), Ancho: 12, Altura: 12
+--------Punto (99, 88)
+------Cuadrante (81, 81), Ancho: 12, Altura: 12
+------Cuadrante (93, 81), Ancho: 12, Altura: 12
+----Cuadrante (63, 63), Ancho: 25, Altura: 25
+------Cuadrante (57, 69), Ancho: 12, Altura: 12
+------Cuadrante (69, 69), Ancho: 12, Altura: 12
+------Cuadrante (57, 57), Ancho: 12, Altura: 12
+--------Punto (55, 54)
+------Cuadrante (69, 57), Ancho: 12, Altura: 12
+--------Punto (72, 56)
+--------Punto (68, 51)
+----Cuadrante (87, 63), Ancho: 25, Altura: 25
+------Cuadrante (81, 69), Ancho: 12, Altura: 12
+------Cuadrante (93, 69), Ancho: 12, Altura: 12
+--------Punto (92, 67)
+--------Punto (90, 64)
+------Cuadrante (81, 57), Ancho: 12, Altura: 12
+--------Punto (85, 54)
+--------Punto (76, 62)
+------Cuadrante (93, 57), Ancho: 12, Altura: 12
+--Cuadrante (25, 25), Ancho: 50, Altura: 50
+----Cuadrante (13, 37), Ancho: 25, Altura: 25
+------Cuadrante (7, 43), Ancho: 12, Altura: 12
+------Cuadrante (19, 43), Ancho: 12, Altura: 12
+--------Cuadrante (16, 46), Ancho: 6, Altura: 6
+----------Punto (18, 44)
+--------Cuadrante (22, 46), Ancho: 6, Altura: 6
+--------Cuadrante (16, 40), Ancho: 6, Altura: 6
+----------Punto (14, 42)
+--------Cuadrante (22, 40), Ancho: 6, Altura: 6
+----------Punto (24, 40)
+------Cuadrante (7, 31), Ancho: 12, Altura: 12
+------Cuadrante (19, 31), Ancho: 12, Altura: 12
+--------Punto (21, 26)
+----Cuadrante (37, 37), Ancho: 25, Altura: 25
+------Punto (44, 37)
+----Cuadrante (13, 13), Ancho: 25, Altura: 25
+------Cuadrante (7, 19), Ancho: 12, Altura: 12
+--------Punto (1, 15)
+--------Punto (3, 14)
+------Cuadrante (19, 19), Ancho: 12, Altura: 12
+--------Punto (22, 19)
+------Cuadrante (7, 7), Ancho: 12, Altura: 12
+------Cuadrante (19, 7), Ancho: 12, Altura: 12
+----Cuadrante (37, 13), Ancho: 25, Altura: 25
+------Punto (27, 2)
+--Cuadrante (75, 25), Ancho: 50, Altura: 50
+----Cuadrante (63, 37), Ancho: 25, Altura: 25
+------Cuadrante (57, 43), Ancho: 12, Altura: 12
+--------Punto (51, 43)
+------Cuadrante (69, 43), Ancho: 12, Altura: 12
+--------Punto (64, 44)
+------Cuadrante (57, 31), Ancho: 12, Altura: 12
+--------Punto (51, 26)
+------Cuadrante (69, 31), Ancho: 12, Altura: 12
+--------Punto (74, 26)
+----Cuadrante (87, 37), Ancho: 25, Altura: 25
+------Cuadrante (81, 43), Ancho: 12, Altura: 12
+------Cuadrante (93, 43), Ancho: 12, Altura: 12
+--------Cuadrante (90, 46), Ancho: 6, Altura: 6
+----------Punto (90, 43)
+----------Punto (91, 48)
+--------Cuadrante (96, 46), Ancho: 6, Altura: 6
+----------Punto (96, 44)
+--------Cuadrante (90, 40), Ancho: 6, Altura: 6
+--------Cuadrante (96, 40), Ancho: 6, Altura: 6
+------Cuadrante (81, 31), Ancho: 12, Altura: 12
+------Cuadrante (93, 31), Ancho: 12, Altura: 12
+----Cuadrante (63, 13), Ancho: 25, Altura: 25
+------Cuadrante (57, 19), Ancho: 12, Altura: 12
+--------Punto (63, 20)
+--------Punto (58, 18)
+------Cuadrante (69, 19), Ancho: 12, Altura: 12
+--------Punto (67, 18)
+--------Punto (71, 20)
+------Cuadrante (57, 7), Ancho: 12, Altura: 12
+------Cuadrante (69, 7), Ancho: 12, Altura: 12
+--------Punto (74, 3)
+----Cuadrante (87, 13), Ancho: 25, Altura: 25
